@@ -20,3 +20,6 @@ You can download the data from https://www.kaggle.com/datasets/nikhilmittal/flig
 |KNeighborsRegressor|0.7196168713774549|0.5880616647777752|1855.9205|8183548.43142|2860.6902019302966|
 |DecisionTreeRegressor|0.9763540213205016|0.6608974546280963|1434.471825|6736595.907665972|2595.495310661526|
 |SVR|0.001038791488200963|-0.003039112895815599|3571.263964206548|19926329.882756207|4463.891786631505|
+
+# Conclusion
+According to the different metrics of different models, the best model is random forest. It has the highest training score and r2 score, and the least MAE, MSE and RMSE.
